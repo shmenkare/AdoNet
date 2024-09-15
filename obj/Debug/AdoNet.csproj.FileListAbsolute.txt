@@ -1,0 +1,10 @@
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\bin\Debug\AdoNet.exe.config
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\bin\Debug\AdoNet.exe
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\bin\Debug\AdoNet.pdb
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\obj\Debug\AdoNet.Form1.resources
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\obj\Debug\AdoNet.Properties.Resources.resources
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\obj\Debug\AdoNet.csproj.GenerateResource.cache
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\obj\Debug\AdoNet.exe
+F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Desarrollador .NET\AdoNet\obj\Debug\AdoNet.pdb

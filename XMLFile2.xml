@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<NewDataSet>
+    <Table>
+        <Id>1</Id>
+        <Nombre>orion</Nombre>
+        <Apellidos>ra</Apellidos>
+        <Telefono>11111</Telefono>
+        <Direccion>el paraiso</Direccion>
+    </Table>
+    <Table>
+        <Id>2</Id>
+        <Nombre>pepe</Nombre>
+        <Apellidos>aguilar</Apellidos>
+        <Telefono>120000</Telefono>
+        <Direccion>la calle</Direccion>
+    </Table>
+    <Table>
+        <Id>3</Id>
+        <Nombre>caca</Nombre>
+        <Apellidos>popo</Apellidos>
+        <Telefono>556464646</Telefono>
+        <Direccion>poseta</Direccion>
+    </Table>
+    <Table>
+        <Id>4</Id>
+        <Nombre>caca</Nombre>
+        <Apellidos>popo</Apellidos>
+        <Telefono>4654651651</Telefono>
+        <Direccion>la mierda</Direccion>
+    </Table>
+</NewDataSet>

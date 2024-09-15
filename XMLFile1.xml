@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ListadoClientes>
+
+    <!--este es un cliente-->
+
+    <cliente>
+
+        <apellido>de Permentier</apellido>
+        <nombre>Emilio</nombre>
+        <documento tipo="dni" numero="20426285"></documento>
+        <ciudad>Resistencia</ciudad>
+        <provincia>Chaco</provincia>
+        <telefono>
+            <prefijo>03722</prefijo>
+            <fijo>123456</fijo>
+            <celular>15123456</celular>
+        </telefono>
+
+    </cliente>
+
+    <!--este es otro cliente-->
+
+    <cliente>
+
+        <apellido>Raffo</apellido>
+        <nombre>Fernando</nombre>
+        <documento tipo="ci" numero="11444777"></documento>
+        <ciudad>Ciudad autonoma de Buenos Aires</ciudad>
+        <provincia>CF</provincia>
+        <telefono>
+            <prefijo>011</prefijo>
+            <fijo>123456</fijo>
+            <celular>15123456</celular>
+        </telefono>
+
+    </cliente>
+
+</ListadoClientes>
